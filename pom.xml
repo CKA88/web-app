@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://54.235.43.146:8081/repository/ken-apps-release/</url>
+	      <url>http://54.82.5.234:8081/repository/testing-app/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://54.235.43.146:8081/repository/ken-apps-snapshot/</url>
+	      <url>http://54.82.5.234:8081/repository/testing-appsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
